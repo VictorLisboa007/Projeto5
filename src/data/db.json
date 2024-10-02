@@ -1,0 +1,100 @@
+{
+  "alunos": [
+    {
+      "id": "3",
+      "nome": "Carla Oliveira",
+      "turma": "A",
+      "ano_escolar": 3
+    },
+    {
+      "id": "4",
+      "nome": "Daniel Costa",
+      "turma": "C",
+      "ano_escolar": 1
+    },
+    {
+      "id": "5",
+      "nome": "Eduardo Lima",
+      "turma": "B",
+      "ano_escolar": 3
+    },
+    {
+      "id": "6",
+      "nome": "Fernanda Souza",
+      "turma": "A",
+      "ano_escolar": 2
+    },
+    {
+      "id": "7",
+      "nome": "Gabriel Almeida",
+      "turma": "C",
+      "ano_escolar": 1
+    },
+    {
+      "id": "8",
+      "nome": "Helena Rocha",
+      "turma": "B",
+      "ano_escolar": 2
+    },
+    {
+      "id": "9",
+      "nome": "Isabela Nunes",
+      "turma": "C",
+      "ano_escolar": 3
+    },
+    {
+      "id": "10",
+      "nome": "João Pereira",
+      "turma": "A",
+      "ano_escolar": 1
+    },
+    {
+      "id": "11",
+      "nome": "Giorgian Arrascaeta",
+      "turma": "D",
+      "ano_escolar": 2
+    },
+    {
+      "id": "2dc5",
+      "nome": "Hugo Lisboa",
+      "turma": "A",
+      "ano_escolar": 3
+    },
+    {
+      "id": "e95d",
+      "nome": "Lionel Messi",
+      "turma": "B",
+      "ano_escolar": 1
+    },
+    {
+      "id": "b5a5",
+      "nome": "Figlio di puttana",
+      "turma": "C",
+      "ano_escolar": 3
+    },
+    {
+      "id": "eebe",
+      "nome": "Hijo de puta",
+      "turma": "A",
+      "ano_escolar": 2
+    },
+    {
+      "id": "ec3f",
+      "nome": "Fils de pute",
+      "turma": "A",
+      "ano_escolar": 1
+    },
+    {
+      "id": "ba9e",
+      "nome": "Kuso yarō",
+      "turma": "C",
+      "ano_escolar": 3
+    },
+    {
+      "id": "2619",
+      "nome": "Filho Da Puta",
+      "turma": "B",
+      "ano_escolar": 1
+    }
+  ]
+}
